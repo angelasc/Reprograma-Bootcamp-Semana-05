@@ -2,16 +2,32 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
-
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
 Turma Online 29 | Semana 05 | 2024 | Professora Manuelly Suzik
+
+Este repositório contém os exercícios desenvolvidos durante a **Semana 05** do curso de Python da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Conteúdo do Repositório  
+
+✅ **Exercícios de Git e GitHub**   
+✅ **Fundamentos de Python**   
+✅ **Lógica de Programação e Estruturas de Dados**   
+✅ **Criação de Funções e Manipulação de Dados**   
+
+## 🎯 Objetivo  
+
+Os exercícios foram resolvidos com o intuito de **praticar os conceitos ensinados** e **aprimorar a autonomia** na escrita de código em Python, além de reforçar o uso do Git e GitHub para versionamento. 🚀  
+
+
+---
+
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
 * Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
 * Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-
 
 ### Resumo
 Agora chegou a hora de se divertir colocando em prática tudo que aprendeu nessas semanas.
