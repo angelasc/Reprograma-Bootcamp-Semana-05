@@ -4,20 +4,30 @@
 
 # Reprograma | Bootcamp de Análise de Dados
 ## 🚀 Exercícios para Casa 
-Turma Online 29 | Semana 05 | 2024 | Professora Manuelly Suzik
+Turma Online on29 | Semana 05 | 2024 | Professora Daviny Letícia
 
-Este repositório contém os exercícios desenvolvidos durante a **Semana 05** do curso de Python da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+Este repositório contém os exercícios desenvolvidos durante a **Semana 05** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
 
-## 📌 Conteúdo do Repositório  
+## 📌 Descrição
+Nesta semana, estudamos as principais funcionalidades das bibliotecas Pandas e NumPy, fundamentais para manipulação de dados em Python. Os exercícios abordaram desde conceitos básicos, como criação e manipulação de DataFrames e arrays, até operações mais avançadas, como agregação e tratamento de dados ausentes.
 
-✅ **Exercícios de Git e GitHub**   
-✅ **Fundamentos de Python**   
-✅ **Lógica de Programação e Estruturas de Dados**   
-✅ **Criação de Funções e Manipulação de Dados**   
+## 🎯 Objetivos do projeto
+📂 exercicios/ → Lista de exercícios resolvidos.
+📂 notebooks/ → Jupyter Notebooks com exemplos e explicações.
+📄 main.py → Código principal contendo as soluções dos exercícios.
+📄 requirements.txt → Lista de dependências do projeto.
+📄 README.md → Este documento explicativo.
 
-## 🎯 Objetivo  
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- banco_de_dados.db: Arquivo do banco de dados gerado e manipulado pelo código Python.
+- main.py: Código principal onde as operações do banco de dados são realizadas.
+- requirements.txt: Dependências do projeto (caso existam).  
 
-Os exercícios foram resolvidos com o intuito de **praticar os conceitos ensinados** e **aprimorar a autonomia** na escrita de código em Python, além de reforçar o uso do Git e GitHub para versionamento. 🚀  
+## 🖥️ Tecnologias utilizadas
+- Python → Linguagem utilizada para análise de dados.
+- Pandas → Manipulação e análise de dados estruturados.
+- NumPy → Computação numérica e operações em arrays.
 
 
 ---
